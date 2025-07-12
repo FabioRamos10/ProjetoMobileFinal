@@ -1,0 +1,40 @@
+ion-toolbar {
+  --background: linear-gradient(90deg, #0F3057, #00334E);
+  --color: white;
+}
+
+ion-content {
+  --background: #F2F2F2;
+}
+
+h2 {
+  color: #0F3057;
+}
+
+ion-button {
+  --background: #F28705;
+  --color: white;
+  border-radius: 10px;
+}
+
+.container1,
+.container2 {
+  width: 50%;
+}
+
+.container2 {
+  padding-top: 30px;
+}
+
+ion-item {
+  --background: black;
+  color: white;
+}
+
+ion-label, ion-input {
+  color: white;
+}
+
+.container {
+  margin-left: 150px;
+}

@@ -1,0 +1,50 @@
+ion-toolbar {
+  --background: linear-gradient(90deg, #0F3057, #00334E);
+  --color: white;
+}
+
+ion-item {
+  --background: black;
+  color: white;
+}
+
+ion-label, ion-text, p {
+  color: white;
+}
+
+.pedidos {
+  margin-left: 280px;
+  margin-right: 280px;
+  --background: black;
+}
+
+.ion-padding-start {
+  --background: black;
+  width: 50%;
+  color: white;
+}
+
+ion-content {
+  --background: #F2F2F2;
+}
+
+ion-card {
+  border-radius: 14px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  background-color: black;
+}
+
+ion-card-title {
+  color: #0F3057;
+  font-weight: bold;
+}
+
+p {
+  font-size: 15px;
+}
+
+ion-button {
+  --background: #F28705;
+  --color: white;
+  border-radius: 10px;
+}
